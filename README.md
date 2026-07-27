@@ -1,7 +1,7 @@
 # Lead Scraper
 
 A Python script that pulls business leads from the **Google Places API** across a
-geographic grid, de-duplicates them, and exports the results — useful for building
+geographic grid, de-duplicates them, and exports the results, useful for building
 local outreach/prospecting lists.
 
 ## What it does
