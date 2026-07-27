@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
 ![Google Places API](https://img.shields.io/badge/Google%20Places%20API-4285F4?logo=googlemaps&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 > Pull business leads from the Google Places API across a geographic grid, deduplicate them, and export ready-to-use prospect lists.
 
@@ -66,4 +65,4 @@ Tune the search area and terms via the constants near the top of `search.py` (la
 
 ## License
 
-Released under the [MIT License](LICENSE).
+© 2026 Precious G. All rights reserved. This repository is public for viewing and portfolio purposes only; please do not copy, reuse, or redistribute the code without permission.
